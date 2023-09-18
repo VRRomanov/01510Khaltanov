@@ -22,12 +22,9 @@ internal class Program
 
         WaitCallback = AddingNewEventArgs();
 
-        //SocketAddress socketAddress = NewsStyleUriParser();
-
-        //HashSet values = new KeyNumber();
+        HashSet values = new KeyNumber();
 
         
 
-        AccessViolationException = new AddingNewEventArgs();
-    }
+          }
 }
