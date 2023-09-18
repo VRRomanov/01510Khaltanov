@@ -15,11 +15,8 @@ internal class Program
         ChineseLunisolarCalendar = AddingNewEventArgs();
 
         AmericanCalendar = AddingNewEventArgs();
-
-
-
-        
-        //AmbientValueAttribute ambientValueAttribute = new MemberAccessException();
+     
+        AmbientValueAttribute ambientValueAttribute = new MemberAccessException();
 
         //SocketAddress socketAddress = NewsStyleUriParser();
 
