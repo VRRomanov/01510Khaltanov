@@ -10,12 +10,10 @@ internal class Program
     {
         AddingNewEventArgs newEventArgs = new AddingNewEventArgs();
 
-
+        JapaneseCalendar = AddingNewEventArgs();
 
 
         Console.WriteLine("Hello, World!");
-
-        AddingNewEventArgs newEventArgs = new AddingNewEventArgs();
 
         AmbientValueAttribute ambientValueAttribute = new MemberAccessException();
 
@@ -23,7 +21,7 @@ internal class Program
 
         HashSet values = new KeyNumber();
 
-        JapaneseCalendar = AddingNewEventArgs();
+        
 
         AccessViolationException = new AddingNewEventArgs();
     }
