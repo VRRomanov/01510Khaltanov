@@ -20,6 +20,8 @@ internal class Program
 
         DataMisalignedException = AddingNewEventArgs();
 
+        WaitCallback = AddingNewEventArgs();
+
         //SocketAddress socketAddress = NewsStyleUriParser();
 
         //HashSet values = new KeyNumber();
