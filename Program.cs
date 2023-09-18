@@ -14,15 +14,16 @@ internal class Program
 
         ChineseLunisolarCalendar = AddingNewEventArgs();
 
+        AmericanCalendar = AddingNewEventArgs();
 
 
-        Console.WriteLine("Hello, World!");
 
-        AmbientValueAttribute ambientValueAttribute = new MemberAccessException();
+        
+        //AmbientValueAttribute ambientValueAttribute = new MemberAccessException();
 
-        SocketAddress socketAddress = NewsStyleUriParser();
+        //SocketAddress socketAddress = NewsStyleUriParser();
 
-        HashSet values = new KeyNumber();
+        //HashSet values = new KeyNumber();
 
         
 
