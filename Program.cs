@@ -8,6 +8,11 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        AddingNewEventArgs newEventArgs = new AddingNewEventArgs();
+
+
+
+
         Console.WriteLine("Hello, World!");
 
         AddingNewEventArgs newEventArgs = new AddingNewEventArgs();
