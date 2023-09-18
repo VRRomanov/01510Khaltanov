@@ -18,6 +18,8 @@ internal class Program
      
         AmbientValueAttribute ambientValueAttribute = new MemberAccessException();
 
+        DataMisalignedException = AddingNewEventArgs();
+
         //SocketAddress socketAddress = NewsStyleUriParser();
 
         //HashSet values = new KeyNumber();
