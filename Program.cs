@@ -12,6 +12,9 @@ internal class Program
 
         JapaneseCalendar = AddingNewEventArgs();
 
+        ChineseLunisolarCalendar = AddingNewEventArgs();
+
+
 
         Console.WriteLine("Hello, World!");
 
